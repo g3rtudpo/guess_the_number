@@ -3,7 +3,7 @@ import random
 number = random.randint(1, 10)
 guess = None
 guess_count = 0
-guess_limit = 3
+guess_limit = 5
 out_of_guesses = False
 
 print("Я загадал число от 1 до 10. У тебя есть три попытки.")
